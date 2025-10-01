@@ -27,8 +27,8 @@
           </div>
 
           <div class="col-lg-6">
-            <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
-              <img src="../src/assets/img/logo habitutor.png" alt="Hero Image" class="img-fluid">
+            <div class="hero-image" data-aos="zoom-out" data-aos-delay="400">
+              <img src="../src/assets/img/logo1.png" alt="Hero Image" class="img-fluid">
             </div>
           </div>
         </div>
